@@ -19,3 +19,30 @@ authors:
     email: annanning@stanford.edu
     affiliation: Stanford University School of Engineering
 repository-code: "https://github.com/jamesbraza/cs330-project"
+keywords:
+  - transfer learning
+  - meta-learning
+  - dataset selection
+  - representation similarity
+  - centered kernel alignment
+  - deep learning
+  - computer vision
+  - tensorflow
+
+# Software authorship above reflects the commit history; the paper's author
+# order differs and is recorded below.
+preferred-citation:
+  type: article
+  title: "TLDChoiceNet: Quantitatively Choosing a Transfer Learning Dataset"
+  authors:
+    - given-names: Jing
+      family-names: Ning
+      email: annanning@stanford.edu
+      affiliation: Stanford University
+    - given-names: James
+      family-names: Braza
+      email: jamesbraza@stanford.edu
+      orcid: 'https://orcid.org/0000-0002-1444-5313'
+      affiliation: Stanford University
+  year: 2026
+  journal: "arXiv preprint"

@@ -2,12 +2,18 @@
 
 **Predict how well a transfer-learning dataset will work — before spending the compute to fine-tune on it.**
 
-[![Paper](https://img.shields.io/badge/paper-PDF-b31b1b.svg)](#citation)
+[![Poster](https://img.shields.io/badge/poster-PDF-8b0000.svg)](docs/poster.pdf)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-ff6f00.svg)](https://www.tensorflow.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 Jing Ning, James D. Braza — Stanford University · [CS 330: Deep Multi-Task and Meta-Learning](https://cs330.stanford.edu/)
+
+[![Project poster](docs/poster.png)](docs/poster.pdf)
+
+*The original CS 330 poster — click for the full-resolution PDF. It covers TLDChoiceNet v1;
+the v2 architecture and the ACC metric below came later, so the figures in the poster differ
+from the results reported here.*
 
 > Joint work. Originally developed at
 > [jamesbraza/cs330-project](https://github.com/jamesbraza/cs330-project); this repository

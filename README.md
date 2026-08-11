@@ -7,7 +7,8 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-ff6f00.svg)](https://www.tensorflow.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Jing Ning, James D. Braza — Stanford University · [CS 330: Deep Multi-Task and Meta-Learning](https://cs330.stanford.edu/)
+Jing Ning, James D. Braza — Stanford University · (https://arxiv.org/abs/2608.09091)
+
 
 [![Project poster](docs/poster.png)](docs/poster.pdf)
 
